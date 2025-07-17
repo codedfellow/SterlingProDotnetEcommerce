@@ -1,3 +1,3 @@
-<h1 style="text-align: center;">ELVIS OGUGWA AGHAULOR</h1>
+<h1 align="center">ELVIS OGUGWA AGHAULOR</h1>
 <hr>
-<h3 style="text-align: center;">STERLINGPRO DOTNET TASK</h3>
+<h3 align="center">STERLINGPRO DOTNET TASK</h3>
