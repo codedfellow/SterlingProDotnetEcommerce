@@ -6,8 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\EcommerceTask.Shared\EcommerceTask.Shared.csproj" />
-  </ItemGroup>
-
 </Project>
